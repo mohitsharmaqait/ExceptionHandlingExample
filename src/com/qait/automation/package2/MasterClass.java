@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MasterClass {
 
 	public static void main(String[] args) throws QaNumberValidationException {
-		// TODO Auto-generated method stub
+		
 
 		int number = 0;
 		String stringName = null;
