@@ -33,4 +33,15 @@ public class Operations {
 		}
 
 	}
+	
+	public void TextOperation(String text){
+		if((text >='a' && text <='z') || (text >='A' && text <='Z')){
+			System.out.println(text + " Entered text is a valid input ");
+		}else {
+			System.out.println(text + " Invalid input");
+		}
+	}
 }
+
+
+
